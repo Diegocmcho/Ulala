@@ -31,3 +31,10 @@
 [15:22:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=97, y=9, z=-432} jb{x=110, y=9, z=-463}
 [15:28:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=7, z=-480} jb{x=99, y=6, z=-482}
 [15:29:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=96, y=7, z=-477} jb{x=79, y=9, z=-492}
+[16:05:47] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
+[16:08:11] [Server thread/INFO]: [dhuski: Set own game mode to Survival Mode]
+[16:09:10] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
+[16:13:05] [Server thread/INFO]: [dhuski: Set own game mode to Survival Mode]
+[16:13:37] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
+[16:13:42] [Server thread/INFO]: [dhuski: Set own game mode to Spectator Mode]
+[16:13:47] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
