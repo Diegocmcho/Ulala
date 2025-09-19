@@ -6210,9 +6210,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-09-19 15:21:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/create_beacon": {
     "criteria": {
       "beacon": "2025-09-19 14:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-09-19 15:25:17 +0000"
     },
     "done": true
   },
@@ -6225,6 +6237,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-09-19 15:14:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2025-09-19 15:25:17 +0000"
     },
     "done": true
   },
@@ -6261,6 +6279,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-09-19 15:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-09-19 15:21:15 +0000"
     },
     "done": true
   },
