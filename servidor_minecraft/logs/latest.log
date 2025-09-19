@@ -27,3 +27,5 @@
 [14:38:56] [Server thread/INFO]: [dhuski: Set own game mode to Survival Mode]
 [14:47:20] [Server thread/INFO]: dhuski has reached the goal [Beaconator]
 [14:47:20] [Server thread/INFO]: dhuski has made the advancement [Bring Home the Beacon]
+[15:12:25] [Server thread/WARN]: dhuski moved too quickly! 15.39993721017123,-8.034988093505618,-4.101373640429188
+[15:22:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=97, y=9, z=-432} jb{x=110, y=9, z=-463}
