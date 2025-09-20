@@ -1,49 +1,25 @@
-[14:22:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:22:33] [ServerMain/INFO]: Loaded 1407 recipes
-[14:22:33] [ServerMain/INFO]: Loaded 1520 advancements
-[14:22:33] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[14:22:33] [Server thread/INFO]: Loading properties
-[14:22:33] [Server thread/INFO]: Default game type: SURVIVAL
-[14:22:33] [Server thread/INFO]: Generating keypair
-[14:22:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:22:33] [Server thread/INFO]: Using epoll channel type
-[14:22:33] [Server thread/INFO]: Preparing level "world"
-[14:22:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:22:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:22:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:22:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:22:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:22:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:22:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:22:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:22:38] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[14:22:38] [Server thread/INFO]: Time elapsed: 3789 ms
-[14:22:38] [Server thread/INFO]: Done (4.829s)! For help, type "help"
-[14:23:38] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[14:30:46] [User Authenticator #1/INFO]: UUID of player dhuski is 99c1a6c1-dd92-4d9a-bfea-afe95257bbf3
-[14:30:51] [Server thread/INFO]: dhuski[/127.237.33.59:51741] logged in with entity id 10 at (-363.1588079783564, 67.0625, -279.11309734314153)
-[14:30:51] [Server thread/INFO]: dhuski joined the game
-[14:31:25] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
-[14:38:56] [Server thread/INFO]: [dhuski: Set own game mode to Survival Mode]
-[14:47:20] [Server thread/INFO]: dhuski has reached the goal [Beaconator]
-[14:47:20] [Server thread/INFO]: dhuski has made the advancement [Bring Home the Beacon]
-[15:12:25] [Server thread/WARN]: dhuski moved too quickly! 15.39993721017123,-8.034988093505618,-4.101373640429188
-[15:22:08] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=97, y=9, z=-432} jb{x=110, y=9, z=-463}
-[15:28:03] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=101, y=7, z=-480} jb{x=99, y=6, z=-482}
-[15:29:56] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=96, y=7, z=-477} jb{x=79, y=9, z=-492}
-[16:05:47] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
-[16:08:11] [Server thread/INFO]: [dhuski: Set own game mode to Survival Mode]
-[16:09:10] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
-[16:13:05] [Server thread/INFO]: [dhuski: Set own game mode to Survival Mode]
-[16:13:37] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
-[16:13:42] [Server thread/INFO]: [dhuski: Set own game mode to Spectator Mode]
-[16:13:47] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
-[16:13:53] [Server thread/INFO]: [dhuski: Set own game mode to Spectator Mode]
-[16:14:02] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
-[16:14:09] [Server thread/INFO]: [dhuski: Set own game mode to Spectator Mode]
-[16:14:12] [Server thread/INFO]: [dhuski: Set own game mode to Survival Mode]
-[16:28:14] [Server thread/WARN]: dhuski moved too quickly! 0.49302503230472894,-6.4457487686982375,-17.750555942016547
-[16:35:28] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-89, y=81, z=-49} jb{x=-89, y=83, z=-51}
-[16:40:51] [Server thread/INFO]: dhuski lost connection: Disconnected
-[16:40:51] [Server thread/INFO]: dhuski left the game
-[16:41:51] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[12:39:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:39:27] [ServerMain/INFO]: Loaded 1407 recipes
+[12:39:27] [ServerMain/INFO]: Loaded 1520 advancements
+[12:39:27] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[12:39:27] [Server thread/INFO]: Loading properties
+[12:39:27] [Server thread/INFO]: Default game type: SURVIVAL
+[12:39:27] [Server thread/INFO]: Generating keypair
+[12:39:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:39:27] [Server thread/INFO]: Using epoll channel type
+[12:39:27] [Server thread/INFO]: Preparing level "world"
+[12:39:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:39:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:39:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:39:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:39:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:39:31] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:39:31] [Worker-Main-3/INFO]: Preparing spawn area: 22%
+[12:39:32] [Worker-Main-1/INFO]: Preparing spawn area: 59%
+[12:39:32] [Server thread/INFO]: Time elapsed: 3214 ms
+[12:39:32] [Server thread/INFO]: Done (4.536s)! For help, type "help"
+[12:39:35] [User Authenticator #1/INFO]: UUID of player dhuski is 99c1a6c1-dd92-4d9a-bfea-afe95257bbf3
+[12:39:39] [Server thread/INFO]: dhuski[/127.237.33.59:36155] logged in with entity id 10 at (-88.37757487819768, 106.0, -48.33333337306976)
+[12:39:39] [Server thread/INFO]: dhuski joined the game
+[12:44:06] [Server thread/WARN]: Mismatch in destroy block pos: jb{x=-88, y=124, z=-50} jb{x=-90, y=100, z=-51}
+[12:45:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2576ms or 51 ticks behind
